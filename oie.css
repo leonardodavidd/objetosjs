@@ -1,0 +1,52 @@
+#container {
+    border: 10px solid black;
+    width: 500px;
+    margin: auto;
+    background-color: blueviolet;
+    height: 400px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin: auto;
+}
+a:hover {
+    text-decoration: underline;
+    color: red;
+}
+
+a:active {
+    color: yellow;
+}
+ul {
+    text-align: center;
+    list-style: none;
+}
+
+li{
+    padding: 5px;
+}
+
+div {
+    padding: 5px;
+}
+a {
+    color: black;
+    border-style: solid;
+}
+button {
+    color: brown;
+    background-color: aquamarine;
+    border-radius: 10px;
+}
+button:active {
+    color: yellow;
+}
+button:hover {
+    text-decoration: underline;
+    color: red;
+}
+body {
+    background-color: bisque;
+    color: white;
+    font-weight: normal 20pt Arial;
+}
